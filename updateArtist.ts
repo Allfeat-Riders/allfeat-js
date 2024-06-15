@@ -14,7 +14,6 @@ async function query_artist_data() {
     console.log(await api.rpc.system.chain());
     console.log(await api.rpc.system.name());
     console.log(await api.rpc.system.version());
-//   const artist_data = await api.query.artists.artistOf("0xB358CfAf4b2ad1CfeCC75791845EFA73af94812b");
 
     // Créez un keyring pour gérer les clés
     const index = 0;
