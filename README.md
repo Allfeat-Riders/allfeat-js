@@ -3,7 +3,7 @@
 bun install
 ```
 
-#### Adapt walletAddress to your address
+#### Adapt walletAddress constante to your address
 And run:
 ```
 bun run getArtist.ts
